@@ -1,0 +1,196 @@
+* {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: Roboto;
+
+}
+
+.navbar {
+
+    padding: 30px 50px 30px 100px;
+
+}
+
+.nav-item {
+    padding: 20px;
+
+}
+
+.navbar-brand {
+    text-align: center;
+    color: #12a5bc;
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.nav-link {
+    border: 0px;
+    background-color: white;
+}
+
+.call {
+    text-align: center;
+    background-color: #2f474e;
+    color: white;
+}
+
+
+.colored {
+    background-color: #6980c4;
+    color: white;
+    padding: 20px;
+}
+
+.mid-head {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.mid-text {
+    padding: 50px 50px 20px 100px;
+
+}
+
+.mid-lg-text {
+    color: #eec745;
+    font-size: 40px;
+}
+
+
+.card {
+    margin: 30px auto 110px;
+    color: #2f474e;
+    width: 60%;
+    height: 85%;
+
+}
+
+.card-title {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bi {
+    color: #eec745;
+    padding: 5px;
+
+}
+
+.btn {
+    width: 75%;
+    text-align: center;
+    margin: 10px 50px auto 50px;
+}
+
+.mid-yellow-1 {
+    text-align: center;
+    background-color: #fcc101;
+    width: 60%;
+    margin: 60px;
+    position: absolute;
+    top: 750px;
+    left: 250px;
+
+
+}
+
+.mid-yellow {
+    text-align: center;
+    background-color: #fcc101;
+    width: 60%;
+    margin: 60px;
+    position: absolute;
+    top: 700px;
+    left: 250px;
+
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    padding: 5px 80px 5px 80px;
+
+}
+
+.companies {
+    text-align: center;
+    padding: 50px;
+    margin-top: 50px;
+}
+
+.card-img-top {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: auto;
+}
+
+.student-btn {
+    width: 30%;
+    color: white;
+}
+
+.bottom {
+    padding: 60px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.icons {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.copyright {
+    background-color: #2f474e;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+@media (max-width:1100px) {
+
+    .mid-yellow {
+        position: static;
+        display: block;
+        margin: 0;
+        width: 100%;
+    }
+
+    .mid-yellow-1 {
+        position: static;
+        display: block;
+        margin: 0;
+        width: 100%;
+    }
+}
+
+
+.company-img {
+    width: 150px;
+    height: 150px;
+}
+
+.tools {
+
+    height: 300px;
+}
+
+.col-lg-4 {
+    text-align: left;
+
+}
+
+.logo {
+    height: 100px;
+}
